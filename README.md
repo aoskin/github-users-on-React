@@ -1,2 +1,5 @@
 # GitHub UsersList
-Покажем пользователей гитхаба!
+Пользователи гитхаба
+
+## Посмотреть проект
+[Проект](https://aoskin.github.io/github-users-on-React/)
