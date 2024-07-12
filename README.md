@@ -1,2 +1,2 @@
-# github-users-on-React
-Github users list
+# GitHub UsersList
+Список пользователей гитхаба!
